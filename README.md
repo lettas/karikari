@@ -1,0 +1,9 @@
+karikari
+========
+
+Installation
+------------
+
+    ./install.sh
+
+
