@@ -5,5 +5,5 @@ Installation
 ------------
 
     ./install.sh
-
+    source ~/.bashrc
 
